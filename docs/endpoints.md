@@ -2,5 +2,5 @@
 
 | Endpoint   | Description                                                  |
 | ---------- | ------------------------------------------------------------ |
-| /test      | Endpoint returns mock response ("Mock data")                 |
-| /headers   | endpoint returns all headers of the incoming request         |
+| /test      | Returns mock response ("Mock data")                          |
+| /headers   | Returns all headers of the incoming request                  |
