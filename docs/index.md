@@ -1,6 +1,6 @@
 # Sample API TechDocs
 
-This is a example of documentation page
+This is an example of documentation page
 
 You can see also:
 
