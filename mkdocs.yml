@@ -1,5 +1,5 @@
 site_name: 'Sample API documentation'
-repo_url: https://github.com/poshtarenko/backstage-techdocs
+repo_url: https://github.com/username/repo-name
 edit_uri: edit/main/docs
 
 nav:
