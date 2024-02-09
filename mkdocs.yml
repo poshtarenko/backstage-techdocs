@@ -1,6 +1,6 @@
 site_name: 'Sample API documentation'
 repo_url: https://github.com/poshtarenko/backstage-techdocs
-edit_uri: edit/main/backstage-techdocs/docs
+edit_uri: edit/docs
 
 nav:
   - Home: index.md
