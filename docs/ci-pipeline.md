@@ -1,4 +1,4 @@
-### CI pipeline (for Test service)
+### CI pipeline for Test service
 
 On pull request opened :
 
